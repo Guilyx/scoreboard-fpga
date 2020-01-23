@@ -1,6 +1,6 @@
 # Scoreboard on FPGA
 
-Implementing a small scaled basketball scoreboard on an FPGA.
+Implementing a chronometer on a FPGA.
 
 ## Board
 
